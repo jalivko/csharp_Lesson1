@@ -1,0 +1,10 @@
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.exe
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.deps.json
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.runtimeconfig.json
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.runtimeconfig.dev.json
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.dll
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.pdb
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.AssemblyInfoInputs.cache
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.AssemblyInfo.cs
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.dll
+C:\Users\wildf\source\repos\Lesson1\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.pdb
